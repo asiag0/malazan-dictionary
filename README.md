@@ -13,11 +13,11 @@ notes, and other input.  suggestions and criticisms are always welcome.
 
 
 files:
-  - malazan.xdxf (xdxf format) - this is the master file, easiest to edit as it's
+  - dict.xdxf (xdxf format) - this is the master file, easiest to edit as it's
     basically xml, and very versatile (some features of the standard I plan to
     exploit in the future)
-  - malazan.kobo.zip - this is the file used on the kobo ereaders.
-  - malazan.ifo (stardict format - you'll need the .idx, .dict, and .syn files
+  - dict.kobo.zip - this is the file used on the kobo ereaders.
+  - dict.ifo (stardict format - you'll need the .idx, .dict, and .syn files
     too)
 
 installation on kobo devices:
