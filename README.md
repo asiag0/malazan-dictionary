@@ -14,7 +14,7 @@ files:
      basically xml, and very versatile (some other features of the standard I plan to
      exploit in the future)
    - 'kobo' directory: contains the dict.kobo.zip file, which is compatable with the Kobo eReaders. (this will get a more appropriate filename in the next revision)
-   - 'stardict' directory: contains the files needed for use with stardict programs.  works perfectly with GoldenDict.
+   - 'stardict' directory: contains the files needed for use with stardict programs.  works perfectly with QDict (on F-Droid).
 
 installation on kobo devices (updated 2023-05):
    to get it to work on a kobo, you'll need a kobo device, and a host computer and usb cable to connect the kobo to it.
